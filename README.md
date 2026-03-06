@@ -352,7 +352,7 @@ http://localhost:8000/docs  # Swagger UI
 
 - API Docs: http://localhost:8000/docs
 - Health Check: http://localhost:8000/health
-- GitHub: [Your Repository URL]
+- GitHub: [https://github.com/idkayush/semantic-search-system]
 
 ## 📧 Contact
 
